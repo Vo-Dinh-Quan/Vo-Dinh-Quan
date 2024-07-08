@@ -33,9 +33,10 @@ I'm a university student with a passion for coding, mechanical keyboards, and a 
 ## Featured Projects
 - [Project 1](https://github.com/Vo-Dinh-Quan/Car-Garage-Project): Car-Garage-Project for IS216.
 
+<!-- 
 ## GitHub Stats
 ![Quân's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vo-Dinh-Quan&show_icons=true&theme=radical)
-
+-->
 ## Contact Me
 <p align="left">
   <a href="mailto:vodinhquan2707.it@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
