@@ -31,8 +31,7 @@ I'm a university student with a passion for coding, mechanical keyboards, and a 
 </p>
 
 ## Featured Projects
-- [Project 1](https://github.com/your-username/project-1): Short description of project 1.
-- [Project 2](https://github.com/your-username/project-2): Short description of project 2.
+- [Project 1](https://github.com/Vo-Dinh-Quan/Car-Garage-Project): Car-Garage-Project for IS216.
 
 ## GitHub Stats
 ![Quân's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vo-Dinh-Quan&show_icons=true&theme=radical)
