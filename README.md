@@ -2,6 +2,7 @@
 
 I'm a university student with a passion for coding, mechanical keyboards, and a good cup of coffee. My goal is to become a skilled full-stack developer, and I'm constantly learning and improving my skills to make that dream a reality.
 
+![Coding GIF](https://github.com/Vo-Dinh-Quan/Vo-Dinh-Quan/blob/main/f2px36fy%20(1).gif)
 ## About Me
 - 🎓 Currently studying at university
 - ☕ Coffee enthusiast
@@ -43,5 +44,3 @@ I'm a university student with a passion for coding, mechanical keyboards, and a 
   <a href="https://www.facebook.com/vdquan.27/"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" height="40" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.instagram.com/vdq.27/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-
-![Coding GIF](https://github.com/Vo-Dinh-Quan/Vo-Dinh-Quan/blob/main/f2px36fy%20(1).gif)
