@@ -11,5 +11,5 @@ Here's a bit more about me:
 I believe in the power of continuous learning and am always on the lookout for new opportunities to grow and challenge myself. Feel free to check out my repositories and connect with me!
 
 ### Contact
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
+- 📧 Email: [your-email@example.com](mailto:vodinhquan2707.it@gmail.com)
+- 💼 LinkedIn: [your-linkedin-profile](https:[//www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/vodinhquan27/))
