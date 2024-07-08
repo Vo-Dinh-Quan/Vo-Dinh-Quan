@@ -12,4 +12,4 @@ I believe in the power of continuous learning and am always on the lookout for n
 
 ### Contact
 - 📧 Email: [your-email@example.com](mailto:vodinhquan2707.it@gmail.com)
-- 💼 LinkedIn: [your-linkedin-profile](https:[//www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/vodinhquan27/))
+- 💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/vodinhquan27/))
