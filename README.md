@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Quân! 👋
 
-<!--
-**Vo-Dinh-Quan/Vo-Dinh-Quan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a university student with a passion for coding, mechanical keyboards, and a good cup of coffee. My goal is to become a skilled full-stack developer, and I'm constantly learning and improving my skills to make that dream a reality.
 
-Here are some ideas to get you started:
+Here's a bit more about me:
+- 🎓 Currently studying at university
+- ☕ Coffee enthusiast
+- ⌨️ Mechanical keyboard hobbyist
+- 💻 Aspiring full-stack developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe in the power of continuous learning and am always on the lookout for new opportunities to grow and challenge myself. Feel free to check out my repositories and connect with me!
+
+### Contact
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
