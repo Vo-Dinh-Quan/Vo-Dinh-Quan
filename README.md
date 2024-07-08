@@ -40,7 +40,7 @@ I'm a university student with a passion for coding, mechanical keyboards, and a 
 <p align="left">
   <a href="mailto:vodinhquan2707.it@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.linkedin.com/in/vodinhquan27/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="https://www.facebook.com/your-profile"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.facebook.com/vdquan.27/"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" height="40" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.instagram.com/vdq.27/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
