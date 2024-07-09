@@ -1,4 +1,6 @@
-# Hi there, I'm Quân! 👋
+<img src="https://github.com/Vo-Dinh-Quan/Vo-Dinh-Quan/blob/main/hello_world.gif" alt="GitHub Cover" width="100%">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=3000&lines=Hi+there!+👋,+I'm+Quan!">
 
 I'm a university student with a passion for coding, mechanical keyboards, and a good cup of coffee. My goal is to become a skilled full-stack developer, and I'm constantly learning and improving my skills to make that dream a reality.
 
@@ -31,7 +33,7 @@ I'm a university student with a passion for coding, mechanical keyboards, and a 
 </p>
 
 ## Featured Projects
-- [Project 1](https://github.com/Vo-Dinh-Quan/Car-Garage-Project): Car-Garage-Project for IS216.
+- [Car-Garage-Project](https://github.com/Vo-Dinh-Quan/Car-Garage-Project)
 
 <!-- 
 ## GitHub Stats
@@ -43,8 +45,4 @@ I'm a university student with a passion for coding, mechanical keyboards, and a 
   <a href="https://www.linkedin.com/in/vodinhquan27/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.facebook.com/vdquan.27/"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" height="40" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.instagram.com/vdq.27/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/Vo-Dinh-Quan/Vo-Dinh-Quan/blob/main/f2px36fy%20(1).gif" alt="Coding GIF" style="border-radius: 20px;">
 </p>
