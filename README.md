@@ -10,10 +10,6 @@ I'm a university student with a passion for coding, mechanical keyboards, and a 
 - ⌨️ Mechanical keyboard hobbyist
 - 💻 Aspiring full-stack developer
 
-## Skills
-- 💻 Programming Languages: C++, Java, HTML, CSS, JavaScript
-- 🗄️ Databases: Oracle, SQL Server
-
 ## Languages and Tools
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
