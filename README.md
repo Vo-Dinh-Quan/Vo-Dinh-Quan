@@ -6,6 +6,6 @@
 
 ## :zap: GitHub Stats
 <p align="center">
-  <img src='https://github.com/Vo-Dinh-Quan/GitHub-Stats-Visualization/blob/master/generated/overview.svg#gh-dark-mode-only'>
-  <img src='https://github.com/Vo-Dinh-Quan/GitHub-Stats-Visualization/blob/master/generated/languages.svg#gh-dark-mode-only'>
+  <img src='https://github.com/Vo-Dinh-Quan/GitHub-Stats-Visualization/blob/master/generated/overview.svg#gh-dark-mode'>
+  <img src='https://github.com/Vo-Dinh-Quan/GitHub-Stats-Visualization/blob/master/generated/languages.svg#gh-dark-mode'>
 </p>
