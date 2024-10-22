@@ -1,7 +1,7 @@
 <img align="right" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/h2MouomJFCpMfWVfUj/giphy.gif" />
 
 ## Hi, I'm bin from Mang To
-- 👨‍🎓 I'm a third-year student at [University of Information Technology](https://www.uit.edu.vn/), aspiring to become a **Fullstack Developer**. 
+- 👨‍🎓 I'm a third-year student at [UIT](https://www.uit.edu.vn/), aspiring to become a **Fullstack Developer**. 
 - Every time I encounter a bug, I take another sip of coffee, and thanks to that, I’ve become a VIP customer of **Trung Nguyen Legend coffee**☕.
 
 
